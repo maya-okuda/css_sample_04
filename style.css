@@ -1,0 +1,38 @@
+body {
+    background-color: silver;
+    background-image : url("images/0621m.JPEG");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    font-size: large;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: #FFFFFF;
+    border-color: white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 12px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+}
